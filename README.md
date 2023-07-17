@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Chites&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Chites&layout=compact&theme=tokyonight"/>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Chites&show_icons=true&theme=dracula&count_private=true)
 
